@@ -1,0 +1,4 @@
+
+Deuda tecnica:
+
+- pasar propiedades de configuracion de mysql a archivo config.js

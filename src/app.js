@@ -3,6 +3,7 @@ import morgan from "morgan";
 //espacio
 import languageRoutes from "./routes/language.routes";
 
+//const cnx = require("./cnx")
 const app=express();
 
 //Settings
